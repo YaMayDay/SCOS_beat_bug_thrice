@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/scos_logo.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-mdpi/scos_logo.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

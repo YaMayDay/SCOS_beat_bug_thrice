@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c9705271fcd75a8da7cb8d55a766fbc3d9e85ebd">
+        <dex dex="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_70580ba2a936329d592bcbebc51988c4ef85712d.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_74a61c8c36dfb47b983ce348fa18bb797c980e46.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_3d689febb3ba38e84b36c672883aaf60574fd72d.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Development/Android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_085e272c769fe500f13aaf7f4d6ccadae9d0706b.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a6c653713b815b1337088f57505ef72ae14f41e7">
+        <dex dex="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/pre-dexed/debug/instant-run_f5f85a96af7c0c45fbf323061d19434ac6a8e392.jar" />
+    </item>
+
+</items>

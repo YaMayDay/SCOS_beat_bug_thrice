@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="24053096902055"
+    token="3092134801305568072"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="209" />
+    <task
+        name="instant-run-dex"
+        duration="821" />
+    <task
+        name="instant-run-transform"
+        duration="53" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="24053096902055"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

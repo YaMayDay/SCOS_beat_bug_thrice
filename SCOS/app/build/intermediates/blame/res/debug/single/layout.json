@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/layout/entry.xml",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/layout/entry.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/layout/fragment_content.xml",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/layout/fragment_content.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/layout/login_register.xml",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/layout/login_register.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/layout/search_line.xml",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/layout/search_line.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/layout/login_toolbar.xml",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/layout/login_toolbar.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/layout/bottom_toolbar.xml",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/layout/bottom_toolbar.xml"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_person_outline.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/ic_person_outline.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_per.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/ic_per.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/key.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/key.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_shape.xml",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/login_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/logo.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_restaurant_menu.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/ic_restaurant_menu.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_help.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/ic_help.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_restaurant_menu1.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/ic_restaurant_menu1.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_back.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/login_back.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_list1.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/ic_list1.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/SCOS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_list.png",
+        "source": "/Users/apple/AndroidStudioProjects/SCOS/app/src/main/res/drawable-hdpi/ic_list.png"
+    }
+]
